@@ -1,0 +1,1 @@
+$('section.btn-doar3')
